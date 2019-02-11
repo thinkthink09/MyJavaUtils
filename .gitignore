@@ -1,3 +1,18 @@
+#intellij
+.idea
+.iml
+
+#elcipse
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+
 # Compiled class file
 *.class
 
